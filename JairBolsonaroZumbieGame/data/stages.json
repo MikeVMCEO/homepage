@@ -1,0 +1,56 @@
+stagesJSON = {"stages": [{
+	"1-1": {
+		"name": "Submundo 1 - Mate os morcegos e zunbis petistas",
+		"tileset" : ".",
+		"enemyType" : {
+			"bat"	 : 20,
+			"zombie" : 10
+		},
+		"bondaries": true
+	},
+	"1-2": {
+		"name": "Submundo 2 - Mate os monstros comunistas",
+		"tileset" : "",
+		"enemyType" : {
+			"bat"	 : 15,
+			"zombie" : 18,
+			"golem"  : 4
+		},
+		"bondaries": true
+	},
+	"1-3": {
+		"name": "Submundo 3 - Destrua o comunismo",
+		"tileset" : "",
+		"enemyType" : {
+			"bat"	 : 15,
+			"zombie" : 20,
+			"golem"  : 8
+		},
+		"bondaries": true
+	},
+	"1-4": {
+		"name": "Submundo 4 - Destrua a esquerda",
+		"tileset" : "",
+		"enemyType" : {
+			"bat"	 : 5,
+			"zombie" : 20,
+			"golem"  : 20
+		},
+		"bondaries": true
+	},
+	"1-5": {
+		"name": "Submundo 5 - Destrua o chefe da quadrilha: LULA.",
+		"tileset" : "",
+		"enemyType" : {
+			"boss": 1
+		},
+		"bondaries": true
+	},
+	"1-6": {
+		"name": "Test Stage",
+		"tileset" : "",
+		"enemyType" : {
+		},
+		"bondaries": true
+	}
+}]}
